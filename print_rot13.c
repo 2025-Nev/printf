@@ -1,5 +1,6 @@
-#include "main.h
+#include "main.h"
 #include <stdlib.h>
+#include <stdarg.h>
 
 /**
  * print_R - prints a string in rot13
