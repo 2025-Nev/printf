@@ -47,7 +47,7 @@ int print_hex(unsigned int n, unsigned int c)
  */
 int print_x(va_list x)
 {
-	return (print_hex(va arg(x, unsigned int), 0));
+	return (print_hex(va_arg(x, unsigned int), 0));
 }
 
 /**
