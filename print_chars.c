@@ -100,7 +100,7 @@ int print_S(va_list S)
 int print_r(va_list r)
 {
 	char *str;
-	int i, count 0;
+	int i, count = 0;
 
 	str = va_arg(r, char *);
 	if (str == NULL)
