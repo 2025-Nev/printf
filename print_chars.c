@@ -92,7 +92,7 @@ int print_S(va_list S)
 }
 
 /**
- * print_r - prints a string in reverse
+ * print_r - prints astring in reverse
  * @r: string to print
  *
  * Return: number of chars printed
@@ -114,4 +114,3 @@ int print_r(va_list r)
 	}
 	return (count);
 }
-
